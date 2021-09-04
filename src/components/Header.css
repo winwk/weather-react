@@ -1,0 +1,22 @@
+.container {
+    max-width: 960px;
+    margin: 0 auto;
+}
+.header {
+    background: #333;
+    height: 150px;
+}
+.header-con {
+    display: flex;
+    justify-content: space-between;
+    height: 160px;
+    align-items: center;
+    padding: 50px 300px;
+
+}
+.logo-container a {
+    color: #fff;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 3rem;
+}
