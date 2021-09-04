@@ -36,7 +36,6 @@ function App() {
 
   return (
     <>
-      <Hero />
       <Header />
     <div className = {
       typeof weather.main != "undefined"
