@@ -2,7 +2,6 @@ import React, { useState } from 'react'
 import keys from './keys'
 import './App.css';
 import Header from './components/Header'
-import Hero from './components/Hero';
 
 
 
